@@ -3,7 +3,7 @@ A *Phonegap Build* simplified example for Cordova 'Media' plugin using `cli-7.0.
 
 This example app uses the least amount of javascript and css possible. It only uses `cordova-plugin-media`. The plugin `cordova-plugin-file` is loaded automatically by *Phonegap Build*.
 
-* When the app starts it plays a trumpet "fanfare" audio clip.
+* When the app starts, it plays a trumpet "fanfare" audio clip.
 * The "Play Other" is the "ice cream truck" song.
 * The "Play Buddy Holly" is Buddy Holly's song entitled "Everyday".
 
@@ -16,3 +16,5 @@ This example app uses the least amount of javascript and css possible. It only u
 * For `script-src * 'self' 'unsafe-inline' 'unsafe-eval';`
   * I did not really figure this out, but is appears it just wants Objects.
   * It is unclear how to autoload code, or hook to autoload code.
+
+This app does not address audio clips not the mobile device. Doing so will require the use of the [Cordova white-list](https://www.npmjs.com/package/cordova-plugin-whitelist)
