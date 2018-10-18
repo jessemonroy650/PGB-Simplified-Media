@@ -14,5 +14,5 @@ This example app uses the least amount of javascript and css possible. It only u
   * `'unsafe-inline'`  is required anytime `style` is used in an HTML element.
 
 * For `script-src * 'self' 'unsafe-inline' 'unsafe-eval';`
-  * I did not really figure this out, but appears it wants just Objects.
+  * I did not really figure this out, but is appears it just wants Objects.
   * It is unclear how to autoload code, or hook to autoload code.

@@ -7,7 +7,7 @@
         <!-- https://build.phonegap.com/current-support -->
         <preference name="phonegap-version" value="cli-7.0.1" />
 
-        <name>pgb-simplified-media</name>
+        <name>PGB Simplified Example Media plugin</name>
         <description>PGB Simplified Example with Cordova 'Media' plugin using cli-7.0.1; less CSS, less Javascript</description>
         <author href="http://bsdmasterindex.com" email="jessemonroy650@yahoo.com">
         Jesse Monroy
