@@ -17,7 +17,7 @@
         <platform name="android" />
 
         <!-- PLUGINS PLUGINS -->
-        <!-- cordova-plugin-file is loaded automatically by Phonegap Build -->
+        <!-- cordova-plugin-file & cordova-plugin-compat are loaded automatically by Phonegap Build -->
         <plugin name="cordova-plugin-media" spec="~2.1.0" />
 
     </widget>

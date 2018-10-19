@@ -8,7 +8,7 @@ This example app only uses `cordova-plugin-media`. The plugins `cordova-plugin-f
 * https://www.npmjs.com/package/cordova-plugin-file
 * https://www.npmjs.com/package/cordova-plugin-compat (deprecated)
 
-This example app uses the least amount of javascript and css possible. It expects everything to work. If you are having uses use [pgb-example-core-media](https://github.com/jessemonroy650/pgb-example-core-media), which has more feedback and error messages.
+This example app uses the least amount of javascript and css possible. It expects everything to work. If you are having issues use [pgb-example-core-media](https://github.com/jessemonroy650/pgb-example-core-media), which has more feedback and error messages.
 
 * When the app starts, it plays a trumpet "fanfare" an `ogg` audio clip.
 * The "Play Other" is the "ice cream truck" song - a `wav` audio clip.
